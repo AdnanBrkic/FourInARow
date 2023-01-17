@@ -3,9 +3,9 @@
 "Four in a Row" is a classic strategy game in this situation coded in Ruby using the Ruby2d library. The objective of the game is to connect four of your colored discs in a row, either horizontally, vertically, or diagonally. Players take turns dropping their colored discs into the top of a vertical grid, with the disc falling to the lowest available space. The game is played by two players on the same computer. It's a perfect time pass game for those who love strategy games.
 
 ## Team members
-- Almir Alić
-- Benjamin Mehanović
-- Adnan Brkić
+- [Almir Alić](https://github.com/alicalmir)
+- [Benjamin Mehanović](https://github.com/benjom22)
+- [Adnan Brkić](https://github.com/AdnanBrkic)
 
 ## How to run project
 1. Make sure you have Ruby and the Ruby2d library installed on your computer. You can check if you have Ruby installed by running the command "ruby -v" in your terminal. To install Ruby2d, you can use the command "gem install ruby2d".
